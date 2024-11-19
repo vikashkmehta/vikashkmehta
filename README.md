@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Vikash
 - 👀 I’m interested in Technologies, Security and designing
-- 🌱 I’m currently learning MERN stack along with regular practice of DSA
+- 🌱 I’m currently building Yamiplex: An anime streaming platform.
 - 💞️ I’m looking to collaborate for interesting projects 
-- 📫 How to reach me [Mail : vikashdbuu@gmail.com]
-- ⚡ Fun fact: I love Photography and content creation [Instagram: @vikashkmehta4]
+- 📫 Reach me Here [Mail : vikashdbuu@gmail.com]
+- ⚡ Hobbies: I love Photography and content creation [Instagram: @vikashkmehta4]
 
 <!---
 vikashkmehta/vikashkmehta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
